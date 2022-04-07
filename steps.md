@@ -1,5 +1,5 @@
 ![image](https://switchandclick.com/wp-content/uploads/2020/08/IMG_6335.webp)
-> *Source from https://switchandclick.com/how-to-build-a-keyboard/*
+> *Image source from [https://switchandclick.com/how-to-build-a-keyboard/](https://switchandclick.com/how-to-build-a-keyboard/)*
 # __Guide to Build A Keyboard__
 ## Steps
 1. Prepare the components

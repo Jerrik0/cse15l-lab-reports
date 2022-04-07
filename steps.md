@@ -14,4 +14,4 @@
 3. Connect to computer and Test
 4. Enjoy your fresh new keyboard built!
 ---
-> *For more detailed guide, please go check [this website](https://switchandclick.com/how-to-build-a-keyboard/)!*
+*For more detailed guide, please go check [this website](https://switchandclick.com/how-to-build-a-keyboard/)!*

@@ -36,3 +36,6 @@ _Jerry Ko_
 2. **cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI**
 In these ways we could simplify the process and merge multiple lines into one.
 
+# __CSE15L Spring 2022 Announcement__
+Have a _nice_ week!
+We will be using [Autograder]( https://autograder.ucsd.edu) as the student queue during TA/tutor office hours.
